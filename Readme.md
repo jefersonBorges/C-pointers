@@ -1,8 +1,8 @@
-# About
+# 💬 About
 
 These exercises are a practice of C language inside the discipline of data structure 1, belonging to the course of Computer Engineering.
 
-## content
+## 👨🏽‍💻 C Content
 
 - pointers
 - arrays
@@ -15,6 +15,12 @@ These exercises are a practice of C language inside the discipline of data struc
 - scanf()
 - fflush()
 - free()
+
+---
+
+## 🎯 Project Objectives
+
+- Practice of C language pointers
 
 ---
 
